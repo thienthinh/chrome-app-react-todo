@@ -16,7 +16,7 @@
 
 ```bash
 # clone the repo
-$ git clone https://github.com/thienthinh/electron-react-chat-app.git
+$ git clone https://github.com/thienthinh/chrome-app-react-todo.git
 
 # Install dependencies
 $ npm install
